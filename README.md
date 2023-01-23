@@ -2,7 +2,7 @@
 
 [Due to issues with GIT I had to convert a few things and handle pull request bugs, therefore the code has been re-uploaded]
 
-    This folder consists of several files; every "cy.js" file consists of a test for the
+This folder consists of several files; every "cy.js" file consists of a test for the
 website: https://accept.ocp.technischeunie.nl 
 
 Under .support you will find a file "commands.js" which consists of the commands and a file "selectors.js" which I have created to improve the adjustability and the readablitiy of this code. 
@@ -12,7 +12,7 @@ will be found right above the concerned line.
 
 ***ABOUT MY APPROACH***
 
-    The first steps consited of analysing the website manually, 
+The first steps consited of analysing the website manually, 
 reading the assignment completely and making sure my Cypress setup worked as it should ("firstTest.cy.js").
 After these basic practices, I was able to start coding (ofcourse with the help of Google! see below for specific courses).
 Separate files seemed the best approach to me, due to my limited knowledge on Cypress (debugging). 
@@ -34,7 +34,7 @@ Beside that, most of the code is working!
 
 ***ANOMALY DETECTED***
 
-    More information inside the following file: 
+More information inside the following file: 
 "cypress\e2e\ReturnPageOrdRef.cy.js"
 
 
@@ -42,7 +42,7 @@ Beside that, most of the code is working!
 
 ***HOW TO RUN MY TESTS***
 
-    In order to run the test for the first time, use "npx cypress open" in your command prompt. Make sure that you are located inside the folder of the project. 
+In order to run the test for the first time, use "npx cypress open" in your command prompt. Make sure that you are located inside the folder of the project. 
 Inside Cypress choose "E2E Testing" and then whatever browser you would like. 
 
 Now you are able to see and click on all my Cypress spec files. 
@@ -51,7 +51,8 @@ In order to run the test (after making any changes) in the .cy.js file, you will
 
 ====================================================================================
 
-    ***Main sources used to complete this task:*** 
+
+***Main sources used to complete this task:*** 
     *https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test
 
     *https://docs.cypress.io/api/cypress-api/keyboard-api
