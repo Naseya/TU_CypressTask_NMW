@@ -8,13 +8,13 @@ website: https://accept.ocp.technischeunie.nl
 Under .support you will find a file "commands.js" which consists of the commands and a file "selectors.js" which I have created to improve the adjustability and the readablitiy of this code. 
 
 Any general notes or bugs will be commented inside a file (top). Specific comments
-will be found right above the concerned line. 
+can be found right above the concerned line. 
 
 ***ABOUT MY APPROACH***
 
 The first steps consited of analysing the website manually, 
 reading the assignment completely and making sure my Cypress setup worked as it should ("firstTest.cy.js").
-After these basic practices, I was able to start coding (ofcourse with the help of Google! see below for specific courses).
+After these basic practices, I was able to start coding (ofcourse with the help of Google! see below for specific sources).
 Separate files seemed the best approach to me, due to my limited knowledge on Cypress (debugging). 
 After every small adjustment, the test had to run again to prevent nested bugs. 
 
