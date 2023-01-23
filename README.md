@@ -53,6 +53,7 @@ In order to run the test (after making any changes) in the .cy.js file, you will
 
 
 ***Main sources used to complete this task:*** 
+
     *https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test
 
     *https://docs.cypress.io/api/cypress-api/keyboard-api
