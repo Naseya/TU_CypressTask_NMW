@@ -30,7 +30,7 @@ Beside that, most of the code is working!
 
 ===================================================================================
 
-ANOMALY DETECTED
+***ANOMALY DETECTED***
 
     More information inside the following file: 
 "cypress\e2e\ReturnPageOrdRef.cy.js"
@@ -38,7 +38,8 @@ ANOMALY DETECTED
 
 ===================================================================================
 
-HOW TO RUN MY TESTS
+***HOW TO RUN MY TESTS***
+
     In order to run the test for the first time, use "npx cypress open" in your command prompt. Make sure that you are located inside the folder of the project. 
 Inside Cypress choose "E2E Testing" and then whatever browser you would like. 
 
