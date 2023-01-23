@@ -43,7 +43,7 @@ Now you are able to see and click on all my Cypress spec files.
 In order to run the test (after making any changes) in the .cy.js file, you will have to manually press the reload button, or use "ctrl + R" in the Cypress interface in your Browser. 
 
 ====================================================================================
-***Main sources used to complete this task:*** 
+    ***Main sources used to complete this task:*** 
     *https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test
 
     *https://docs.cypress.io/api/cypress-api/keyboard-api
