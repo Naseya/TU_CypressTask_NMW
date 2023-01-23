@@ -1,0 +1,27 @@
+{
+  "name": "cypress-final",
+  "version": "1.0.0",
+  "description": "Final code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naseya/TU_CypressTask_NMW.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "automation"
+  ],
+  "author": "Naseya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naseya/TU_CypressTask_NMW/issues"
+  },
+  "homepage": "https://github.com/Naseya/TU_CypressTask_NMW#readme",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
