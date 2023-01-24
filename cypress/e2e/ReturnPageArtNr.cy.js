@@ -51,7 +51,7 @@ describe('Successful login', () => {
         cy.get('[index="1"] > .product-row-col-2 > .product-information-container > .container-select-reason-qty > .select-reason > .selectbox > .custom-select-box > .items > [data-cy="option-06"]')  
           .click({force:true})
 
-        Amount = 1
+        //Amount = 1
         cy.get('[data-cy="6944326-updateQuantity-plus-button"]')
         .click({force:true})
 
