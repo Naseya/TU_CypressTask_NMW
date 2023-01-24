@@ -28,6 +28,7 @@ Examples of best practices I wanted to apply, but did not complete yet:
 2) Complete several "it{}" in one file, without Cypress going to a default blank page
 
 3) End every test with an assertion 
+
 Beside that, most of the code is working! 
 
 
